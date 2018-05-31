@@ -10,4 +10,4 @@ Github地址：
 
     简书地址：https://www.jianshu.com/ 
     简书账号：13600145935  密碼：dadi01
-    ![简书发布文章](/images/Company/jianshu.jpg)
+    ![简书发布文章](/images/jianshu.jpg)
